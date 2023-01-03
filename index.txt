@@ -4,6 +4,6 @@
   <title>SSS My Wallet</title>
 </head>
 <body>
-  <h1>SSS My Wallet</h1>
+  <h1>SSS My Wallet èCê≥î≈</h1>
 </body>
 </html>
