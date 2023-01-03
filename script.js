@@ -8,10 +8,10 @@ dom_addr.innerText = address.pretty()
 console.log("Hello Symbol")
 console.log(`Your Address : ${address.plain()}`)
 
-const GENERATION_HASH = '7FCCD304802016BEBBCD342A332F91FF1F3BB5E902988B352697BE245F48E836'
-const EPOCH = 1637848847
-const XYM_ID = '3A8416DB2D53B6C8'
-const NODE_URL = 'https://sym-test.opening-line.jp:3001'
+const GENERATION_HASH = 'F8E133571827948BA7D72EE62714893EC3E5C0279B44C46F528D2AED9AA28B95'
+const EPOCH = 1002
+const XYM_ID = '72C0212E67A08BCE'
+const NODE_URL = 'https://marrons-xym-farm001-test.com:3001/chain/info'
 const NET_TYPE = symbol.NetworkType.TEST_NET
 
 const repositoryFactory = new symbol.RepositoryFactoryHttp(NODE_URL)
